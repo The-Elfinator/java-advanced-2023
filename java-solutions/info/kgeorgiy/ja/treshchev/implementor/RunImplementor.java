@@ -6,12 +6,12 @@ import java.nio.file.Path;
 
 public class RunImplementor {
 
-    private static final String PATH_TO_OUTPUT = "C:\\Users\\artem\\IdeaProjects\\JavaAdvanced\\solutions\\java-solutions\\Sample.jar";
+    private static final String PATH_TO_OUTPUT = "C:\\Users\\artem\\IdeaProjects\\JavaAdvanced\\solutions\\java-solutions\\A.java";
 
     public static void main(String[] args) {
         Implementor implementor = new Implementor();
         try {
-            implementor.implementJar(A.class, Path.of(PATH_TO_OUTPUT));
+            implementor.implement(A.class, Path.of(PATH_TO_OUTPUT));
         } catch (ImplerException e) {
             System.err.println("ImplerException caught: " + e.getMessage());
         }

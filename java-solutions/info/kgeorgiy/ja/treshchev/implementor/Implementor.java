@@ -163,7 +163,7 @@ public class Implementor implements JarImpler {
      */
     @Override
     public void implement(Class<?> clazz, Path path) throws ImplerException {
-        if (Modifier.isPrivate(clazz.getModifiers()) || clazz.isPrimitive()) {
+        if (Modifier.isPrivate(clazz.getModifiers()) || clazz.isPrimitive() || !clazz.isInterface()) {
             throw new ImplerException("Error trying implemented private interface!");
         }
         this.clazzName = clazz.getSimpleName();

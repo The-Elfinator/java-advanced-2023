@@ -4,7 +4,7 @@ public interface A {
 
     int x(int y);
 
-    String hello();
+    String[] hello();
 
     void kek();
 }
