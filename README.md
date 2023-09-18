@@ -1,11 +1,12 @@
 # java-advanced-2023
 Repository for JavaAdvanced course solutions
 
-Код в java-solutions/info/kgeorgiy/ja/treshchev
-
-Разные директории - разные дз
+[Код самих дз](./java-solutions/info/kgeorgiy/ja/treshchev)
 
 [Remote bank](./java-solutions/info/kgeorgiy/ja/treshchev/bank)
+
+[HelloUDP/HelloUnblockingUDP](./java-solutions/info/kgeorgiy/ja/treshchev/hello)
+
 
 ## Attention!!!
 
