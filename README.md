@@ -5,9 +5,15 @@ Repository for JavaAdvanced course solutions ITMO, y2021
 
 ## Repo Structure | Структура репозитория
 
-[Код самих дз](./java-solutions/info/kgeorgiy/ja/treshchev)
+[Code of homeworks | Код самих дз](./java-solutions/info/kgeorgiy/ja/treshchev)
 
-### Interesting tasks | Интересные дз
+[Used libs | Используемые библиотеки](./lib)
+
+[Bash scripts | Скрипты на bash](./scripts)
+
+[Documentation of Jar-Implementor | Документация к Jar-Implementor ](./javadoc)
+
+### Some interesting tasks | Некоторые интересные задания
 
 [Remote bank](./java-solutions/info/kgeorgiy/ja/treshchev/bank)
 
