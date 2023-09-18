@@ -18,4 +18,4 @@
 
 [Walk files | Обход файлов](./walk)
 
-[Материалы курса](https://www.kgeorgiy.info/courses/java-advanced/)
+[Ознакомиться с планом лекций и полным списком дз можно тут](https://www.kgeorgiy.info/courses/java-advanced/)
