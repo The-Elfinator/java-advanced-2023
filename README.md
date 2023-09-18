@@ -1,6 +1,12 @@
 # java-advanced-2023
 Repository for JavaAdvanced course solutions
 
+Код в info/kgeorgiy/solutions/ja/treshchev
+
+Разные директории - разные дз
+
+Remote bank - директория bank
+
 ## Attention!!!
 
 This repository contains codes of JavaAdvanced course's homeworks but no one guarantees that 
