@@ -5,7 +5,7 @@ Repository for JavaAdvanced course solutions
 
 Разные директории - разные дз
 
-Remote bank - директория bank
+[Remote bank](./java-solutions/info/kgeorgiy/ja/treshchev/bank)
 
 ## Attention!!!
 
