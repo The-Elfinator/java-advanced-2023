@@ -1,7 +1,7 @@
 # java-advanced-2023
 Repository for JavaAdvanced course solutions
 
-Код в info/kgeorgiy/solutions/ja/treshchev
+Код в java-solutions/info/kgeorgiy/ja/treshchev
 
 Разные директории - разные дз
 
