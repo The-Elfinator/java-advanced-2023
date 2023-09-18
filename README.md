@@ -1,12 +1,21 @@
 # java-advanced-2023
-Repository for JavaAdvanced course solutions
+Repository for JavaAdvanced course solutions ITMO, y2021
+
+Репозиторий содержащий домашние задания курса "Технологии программирования"("Java-Advanced") ИТМО, y2021
+
+## Repo Structure | Структура репозитория
 
 [Код самих дз](./java-solutions/info/kgeorgiy/ja/treshchev)
+
+### Interesting tasks | Интересные дз
 
 [Remote bank](./java-solutions/info/kgeorgiy/ja/treshchev/bank)
 
 [HelloUDP/HelloUnblockingUDP](./java-solutions/info/kgeorgiy/ja/treshchev/hello)
 
+[Web-Crawler](./java-solutions/info/kgeorgiy/ja/treshchev/crawler)
+
+[Implementor/Jar-Implementor](./java-solutions/info/kgeorgiy/ja/treshchev/implementor)
 
 ## Attention!!!
 
